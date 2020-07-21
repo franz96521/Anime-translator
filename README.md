@@ -1,8 +1,8 @@
 # Anime-translator
-create subtitles and translate them into the selected language
+Create subtitles and translate them into the selected language
 
 ## Installation & run 
-make sure you have VLC installed on your computer then run : 
+Make sure you have VLC installed on your computer then run : 
 ```bash
 conda env create -v -f AnimeTranslator.yml
 conda activate AnimeTranslator
